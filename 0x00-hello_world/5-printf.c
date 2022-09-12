@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
-* main - Entry point
-*
+* Description: main - prints output of a string to standard output.
 * Retrurn: Always 0 (Success)
 */
 int main(void)
