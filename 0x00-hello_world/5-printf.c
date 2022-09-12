@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * Description: main - prints output of a string to standard output.
-* Retrurn: Always 0 (Success)
+* Return: 0 if success
 */
 int main(void)
 {
