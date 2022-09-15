@@ -3,7 +3,7 @@
 /**
  * _isalpha - entry point
  * @c: single letter input
- * return: 1 functional, 0 not func
+ * Return: 1 functional, 0 not func
  */
 int _isalpha(int c)
 {
